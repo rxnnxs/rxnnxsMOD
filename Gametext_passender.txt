@@ -1,0 +1,13 @@
+Queue Suggested Project		;Empfohlenes Projekt einreihen
+Research speed for this project		;{0} Forschungsgeschw. für dieses Projekt
+Abundance		;Ressourcenreichtum
+Space Control		;Planetenorbit unter Kontrolle
+Native Planet Type		;Heimatplanet
+Hostile Planet Type		;Lebensfeindliche Umweltbedingungen
+Growth Rate		;Wachstum
+Automatic		;Autom.
+Assimilation		;Integriert
+Amount		;Menge
+Defensive Facilities and other bonuses		;Verteidigungsanlagen und andere Boni
+Fortified Line		;Verstärkte Verteidigungslinie
+Hotkey X set to ITEM		;Hotkey {0} auf {1} gesetzt

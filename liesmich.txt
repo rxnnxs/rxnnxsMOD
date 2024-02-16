@@ -1,0 +1,8 @@
+Dies ist eine Zusammenführung aller von mir bisher erstellen Modifikationen die es in die Version 1.2.0.5 geschafft haben.
+
+Wenig Hilfetext
+Angepasste Texte damit es besser passt
+Optimiert für den Deutsch Mod, egal welche Version
+Bessere Orbits, kleinere Planeten und Sonnen
+Kleinere Schiffe
+Angepasste Rassen die auf kleineren Planeten besser klarkommen
