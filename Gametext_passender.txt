@@ -8,6 +8,27 @@ Growth Rate		;Wachstum
 Automatic		;Autom.
 Assimilation		;Integriert
 Amount		;Menge
-Defensive Facilities and other bonuses		;Verteidigungsanlagen und andere Boni
+Defensive Facilities and other bonuses		;Verteidigungsanlagen +andere Boni
 Fortified Line		;Verstärkte Verteidigungslinie
 Hotkey X set to ITEM		;Hotkey {0} auf {1} gesetzt
+Troop Transport		;Truppentransport
+Construction Ship		;Bauschiff
+Reactor Offline		;Reaktor außer Betrieb
+HyperDrive Offline		;Hyperantrieb außer Betrieb
+Latest Design for Role		;*Entwurf »Rolle
+Latest Design for SHIPHULL		;*Entwurf »Hülle '{0}'
+Latest Design for Hull		; *Entwurf »Hülle
+Latest Design for Largest Hull for Role		; *Entwurf ¤Hülle »Rolle
+Latest Active Design for Role		; *Entwurf (aktiv) »Rolle
+Latest Designs		;*Entwürfe
+Latest Buildable Designs		;*Entwürfe (konstruierbar)
+Active Designs		;Aktive Entwüfe
+Inactive Designs		;Inaktive Entwürfe
+Active Buildable Designs		;Aktive Entwürfe (konstruierbar)
+Latest Designs Per Role		;*Entwürfe »Rolle
+Latest Buildable Designs Per Role		;*Entwürfe »Rolle (konstruierbar)
+Latest Designs Per Hull		;*Entwürfe »Hülle
+Latest Buildable Designs Per Hull		;*Entwürfe »Hülle (konstruierbar)
+View		;Zeigen
+Other Designs That Upgrade To This Design		;Entwurf ist Vorlage für:
+Upgrades To		;Aufrüstungsmuster:
