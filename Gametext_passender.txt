@@ -30,5 +30,20 @@ Latest Buildable Designs Per Role		;*Entwürfe »Rolle (konstruierbar)
 Latest Designs Per Hull		;*Entwürfe »Hülle
 Latest Buildable Designs Per Hull		;*Entwürfe »Hülle (konstruierbar)
 View		;Zeigen
-Other Designs That Upgrade To This Design		;Entwurf ist Vorlage für:
+Other Designs That Upgrade To This Design		;Diesen Entwurf nutzen:
 Upgrades To		;Aufrüstungsmuster:
+ShipMission Description Transport Migrants		;Transportiere Siedler von {0} nach {1}
+ShipMission Description With Distance Transport Migrants		;Siedler-Treck von {0} ({2} entfernt) nach {1} ({3} entfernt)
+Migrants in Transit		;Siedler im Treck
+Migrants in Transit Explanation		;Siedler, die derzeit an Bord aller Passagierschiffe in Eurem Herrschaftsgebiet auf Wanderschaft sind
+Transferring to DESTINATION		;Reise nach {0}
+Waiting at X		;Arbeitet auf {0}
+Base Quality		;Ursprüngliche Qualität
+Retrofit Path		;Aufrüst-Logik
+Upgrades To		;Dieses Design wird aufgerüstet zu
+Upgrades to DESIGN because latest for hull		;Wird zu '{0}' aufgerüstet, da es der neueste Entwurf für die zugewiesene Hülle ist
+Upgrades to DESIGN because latest for role		;Wird zu '{0}' aufgerüstet, da es die neueste Designvorlage für die zugewiesene Rolle ist
+Upgrades to DESIGN because latest for largest hull for role		;Wird zu '{0}' aufgerüstet, da es die neueste Designvorlage für die größte Hülle für die zugewiesene Rolle ist
+Garrisoned		;Stationiert
+GameTaskType SetTroopUngarrison		;Garnisonstruppe {0} frei verfügbar machen
+GameTaskType SetTroopUngarrison Multiple		;Garnisonstruppen frei verfügbar machen
