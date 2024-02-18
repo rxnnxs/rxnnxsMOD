@@ -47,3 +47,20 @@ Upgrades to DESIGN because latest for largest hull for role		;Wird zu '{0}' aufg
 Garrisoned		;Stationiert
 GameTaskType SetTroopUngarrison		;Garnisonstruppe {0} frei verfügbar machen
 GameTaskType SetTroopUngarrison Multiple		;Garnisonstruppen frei verfügbar machen
+BonusType ShipMaintenanceCivilian		;Wartungskosten-Ersparnis Zivilschiffe
+BonusType ShipMaintenanceMilitary		;Wartungskosten-Ersparnis Militärschiffe
+BonusType ConstructionSpeedCivilian		;Konstruktionsgeschw. für Zivilschiffe
+BonusType ConstructionSpeedMilitary		;Konstruktionsgeschw. für Militärschiffe
+BonusType ConstructionSpeedColonyShip		;Konstruktionsgeschw. für Kolonieschiffe
+BonusType ConstructionSpeedFacility		;Konstruktionsgeschw. für Einrichtungen
+Very Sparse		;Dünn
+Galaxy Expansion PreWarp		;Raketen- Zeitalter
+Galaxy NearbyHostileRaces Hard		;Etwas mehr
+Empire Name		;Reich
+Your Empire Tech Level PreWarp		;Raketen- Zeitalter
+Transfer to new location		;An obigen Standort versetzen
+Location		;Einsatzort
+Default Event PreWarp Homesystem		;Raketen- Zeitalter
+Default Event Abandoned Ships		;Herrenlose Schiffe
+Default Event Debris Fields		;Trümmer- Felder
+Default Event Gravitic Locations		;Gravitations- Stürme
